@@ -2,12 +2,12 @@
 	"version": 2,
 	"redirects": [
 		{
-			"source": "/dotfiles",
-			"destination": "https://github.com/hafffe/dotfiles"
+			"source": "/suss",
+			"destination": "https://github.com"
 		},
 		{
 			"source": "/(.*)",
-			"destination": "https://github.com/hafffe"
+			"destination": "https://github.com/stemount"
 		}
 	]
 }
